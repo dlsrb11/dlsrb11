@@ -5,7 +5,7 @@ top 명령어는 실시간으로 시스템의 프로세스 및 자원 사용 상
 ### 사용법
 '''bash
 top
-
+![top]https://github.com/dlsrb11/dlsrb11/blob/main/top.png
 주요 화면 설명
 * PID: 프로세스 ID
 * USER: 프로세스를 실행한 사용자
